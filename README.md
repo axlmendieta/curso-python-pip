@@ -2,7 +2,8 @@
 
 
 #App Project 
-'''sh
+
+''' sh
 git clone 
 cd app 
 .\env\Scripts\activate

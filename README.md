@@ -3,10 +3,10 @@
 
 #App Project 
 
-''' sh
+``` sh
 git clone 
 cd app 
 .\env\Scripts\activate
 pip install -r requirements.txt
 python main.py
-'''
+```
